@@ -16,4 +16,6 @@ This data set contains the following features:
 ' Timestamp': Time at which consumer clicked on Ad or closed window
 ' Clicked on Ad': 0 or 1 indicated clicking on Ad
 
+Dataset: advertising.csv
+
 Source: Whole project is a part of Data Science and Machine Learning Course by Jose Portilla, Pierian Data
